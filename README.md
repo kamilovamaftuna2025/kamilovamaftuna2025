@@ -1,1 +1,1 @@
-### Hi,I'm Kamilova Maftuna <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5iMncxMnU3M2pvOWI3ZXV5d2h5OHVoZDE0NWdoYncxYWxmMTh3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width"27px">
+### Hi,I'm Kamilova Maftuna <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5iMncxMnU3M2pvOWI3ZXV5d2h5OHVoZDE0NWdoYncxYWxmMTh3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" "width:28px ;">
