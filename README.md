@@ -1,29 +1,59 @@
-Hi, I'm Kamilova Maftuna 👋
+<h1 align="center">Hi, I'm Kamilova Maftuna 👋</h1>
 
-I’m a young and passionate Frontend Developer from Uzbekistan.
-I love creating modern, responsive, and user-friendly web interfaces.
-Currently, I’m learning HTML, CSS, JavaScript and building practical projects every day.
-I also develop Telegram bots using Node.js.
+<p align="center">
+  🌟 Frontend Developer | 🤖 Telegram Bot Developer | 🇺🇿 Uzbekistan
+</p>
 
-🚀 What I Do
+---
 
-🌐 Frontend development
+## 🚀 About Me
 
-🤖 Telegram bot creation
+I'm a young and passionate **Frontend Developer** who loves creating  
+modern, responsive and user-friendly web interfaces.
 
-🎨 UI/UX design practice
+- 🔭 Currently learning **HTML, CSS, JavaScript**
+- 🤖 Creating various **Telegram bots** using **Node.js**
+- 🎨 Improving my **UI/UX skills**
+- 📚 Coding every single day
 
-📚 Daily coding & learning
+---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-HTML • CSS • JavaScript • Node.js • Telegram Bot API • Git & GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-0088cc?style=for-the-badge&logo=telegram" />
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</p>
 
-🎯 Goals
+---
 
-To become a professional Frontend Developer and create useful real-world projects.
+## 🌟 What I Do
 
-📫 Contact
+- 🌐 Frontend development  
+- 🤖 Telegram bot creation  
+- 🎨 UI/UX design practice  
+- 🧠 Daily learning and coding  
 
-Feel free to reach out:
-Telegram: @kamilovamaftuna2025
+---
+
+## 🎯 Goals
+
+- Become a strong, professional **Frontend Developer**
+- Build useful, real-world applications
+- Upgrade my skills with new technologies
+
+---
+
+## 📫 Contact
+
+If you want to reach me:  
+**Telegram:** [@kamilovamaftuna2025](https://t.me/kamilovamaftuna2025)
+
+---
+
+<p align="center">⭐️ Thank you for visiting my GitHub profile! ⭐️</p>
