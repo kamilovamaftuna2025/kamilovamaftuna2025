@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kamilova Maftuna 👋</h1>
+<h3 align="center">My name is Maftuna</h3>
 
 <p align="center">
   🌟 Frontend Developer | 🤖 Telegram Bot Developer | 🇺🇿 Uzbekistan
