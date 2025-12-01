@@ -1,59 +1,43 @@
-<h3 align="center">My name is Maftuna</h3>
+# 🚀 Maftuna Kamilova – Frontend Developer & Telegram Bot Creator
 
-<p align="center">
-  🌟 Frontend Developer | 🤖 Telegram Bot Developer | 🇺🇿 Uzbekistan
-</p>
+Passionate **Frontend Developer** from Uzbekistan, specializing in **interactive web applications, Telegram bots, and mini projects**. Experienced in **HTML, CSS, JavaScript, and Node.js**, building professional, clean, and responsive solutions.
 
 ---
 
-## 🚀 About Me
-
-I'm a young and passionate **Frontend Developer** who loves creating  
-modern, responsive and user-friendly web interfaces.
-
-- 🔭 Currently learning **HTML, CSS, JavaScript**
-- 🤖 Creating various **Telegram bots** using **Node.js**
-- 🎨 Improving my **UI/UX skills**
-- 📚 Coding every single day
+## 🛠 Technologies & Tools
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Backend / Bots:** Node.js, node-telegram-bot-api
+- **Database:** MongoDB
+- **Design & Prototyping:** Figma, Canva
+- **Version Control:** Git, GitHub
 
 ---
 
-## 🛠 Tech Stack
+## 🌟 Featured Projects
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-0088cc?style=for-the-badge&logo=telegram" />
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</p>
+### Telegram Quiz Bot
+- Multi-category quiz bot with timers and top user tracking.
+- Built with Node.js and Telegram Bot API.
+- [Repository Link](https://github.com/yourusername/telegram-quiz-bot)
 
----
+### Food Menu Bot
+- Users can select food categories and view details via inline buttons.
+- Node.js + Telegram Bot API project.
+- [Repository Link](https://github.com/yourusername/food-menu-bot)
 
-## 🌟 What I Do
-
-- 🌐 Frontend development  
-- 🤖 Telegram bot creation  
-- 🎨 UI/UX design practice  
-- 🧠 Daily learning and coding  
-
----
-
-## 🎯 Goals
-
-- Become a strong, professional **Frontend Developer**
-- Build useful, real-world applications
-- Upgrade my skills with new technologies
+### Portfolio Website
+- Modern responsive design showcasing projects, skills, and contact information.
+- [Live Demo](https://yourusername.github.io/portfolio/)
 
 ---
 
 ## 📫 Contact
-
-If you want to reach me:  
-**Telegram:** [@kamilovamaftuna2025](https://t.me/kamilovamaftuna2025)
+- **Email:** your.email@example.com  
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- **Telegram:** [@yourusername](https://t.me/yourusername)
 
 ---
 
-<p align="center">⭐️ Thank you for visiting my GitHub profile! ⭐️</p>
+## ⚡ Personal Statement
+Focused on delivering professional code with attention to detail.  
+Always learning, building, and improving solutions that matter.
